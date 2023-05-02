@@ -1,7 +1,7 @@
 # spam_classification_NLP
 
 - This project is about the spam classification of the SMS messages extracted from Grumbletext website 
-- you can find more about the dataset ![here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
+- you can find more about the dataset [here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
 ## steps followed in the project
 
@@ -23,5 +23,5 @@
 ### Metrics
 - I used confusion matrix, accuracy score for evaluating the performance model,and its accuracy is 98.4%
 
-
-- Thanks for reading till the end, if you have any opportunities in AI , ML , DL ,NLP, feel free to reach me out on ![Linkedin](https://www.linkedin.com/in/rohandevaki/) or ![Email Id](mailto:jagandevaki1@gmail.com) , 
+### Thankyou 
+- Thanks for reading till the end, if you have any opportunities in AI , ML , DL ,NLP, feel free to reach me out on [Linkedin](https://www.linkedin.com/in/rohandevaki/) or [Email Id](mailto:jagandevaki1@gmail.com) , 
